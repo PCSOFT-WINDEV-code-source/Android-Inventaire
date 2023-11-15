@@ -1,0 +1,391 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FEN_Principale
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : FEN_Principale
+ identifier : 0x26926d8b073de9bf
+ internal_properties : CAAAAAgAAAC1URZeXQ6TfY8Bse119IPTg2gFTuoyF10BQ5I7Dt4bd7dUFvuEUn3WMEAq+8tKIgtp6puUQiytTNXAqsLXUFMWV8HBojaV6YRtAUMFYArBuWKofPPYOv2FWPsC0FJZLwfsV88JhTf+9W5Cy0R2iHDlAegcrv9gbTJYtQwM74pmsahq53ihpez90yiPGGyaUGhN6avlOY2zKX4OXney1B+sJLf9NUDSf/8Q1iWtov5cXUjdrvopd+Mb1IbPFheaCfOv7BMUbA+8j2U+KZuuB1jk+v2W1yRNVqYR6i+34oqwYdgqoHAQ534w/T34XJW8eAlY1AH5swZOIlH9QDYde7LlXDetUBmMHrKxOR84xzwaDK0vQ7kwfCkNr37d9YmAY4LxL3ggHTkhTKm7p+pc88N287uw6genn/KDbaTAy/v17ZMYvXCcNOTTNytUXPGs2mBuRh5G86WSmGh4Vfc7x6MtuIWXjSY+OfVr/eTMKjAwHCoom+jNA8sJAao21KL3xQOPAz1jz8EhE5COhPZQfo+xYNbgS0e0rnMwgiSmaua+VfRal0FfWyFRqxsJO8M/aWoj5X85aazI/rxZXykJ2067cilcq2+ypZJfRxPwLFX/AfJc22+QVV4KwX368Dw/U7uFATJ6mo6zLHiz58mU/iIyxkBo4NwXcp6iqMzFd5e28ytkMGVgcm7FLvKt69tXOLM86KflySpowusgD9fN5qahcVGMATq8XsFlzqfmX9H1vnfDUS7aSP7PB8MoX34fq0iRP9jiQAKG/qT+gVR8aB4FTyeBZ66ZX7H3mWDgBC76/bZ/FCOvle6kwD6ZX3+mqbpcoJHIwT3YXuiEm/nb+lOGiJw=
+ properties :
+  width : 320
+  height : 430
+  heightMin : 480
+ controls :
+  -
+    name : SAI_CodeBarres
+    identifier : 0x26926d8b0744e9bf
+    internal_properties : CAAAAAgAAAAOTEaoERRKFgSJ9akneyGyDmybIF9Kn6gvAtMIyoZa0ZHX9ucKn2cww6A1SEIirN+jHV9OTyDIyL2uSlbJOBT//kfrWVsHEfJxvUSaXw+DrAwYU8v7H2LHxgQ15SThSqjaCEzoVNBPFYltXUdmUExLXFzOFQ/689y7+z+jJi4Ca0zosxoYmfr0xGRKJTT0RUcjYtxAKd3CSARscijPYSCMnNQsOtBNAChEhb8wEUttWnC6vCubWIQByWWlprVGLzeDrr0/l5tfgcRJbX97v8JN/1xZxDRJNjGVzk7jDIcfxTqRfI8FXIO5bcUH/NmkkxFXyCSQxFAC7UJu+hTFB3oUdMbIlMboNTgXrxXtl+7W6mRq0kkPHlmChZZVDVWNZ3PB6aSq7enQB6mDsSqvJYfftvjir31GQpO7zaAxKkVV5juLIaOmJ0CeafOVV7w/RFJm7/IQAcsq+jDwpx8hNTMnrM2HLDiJpUDzyrpw7gKjR47jBlqCefqZkrV1rdL+yCl4Xx4vG/SeMkCAvGfEOKYtQskwAKdSSfTZkxtHgKgC9MPClNKG1k2uUN0wxWjx/mvornM7ozZ513VnVxZZmvBeg7LN6HoP5PalXKiq80hojyKOi+df5/Mf1aN/9Dm72yLGnq8ECgNct2vYsAp/XIVRaagQBWHsUXBT/gzSK2r5Yc2G7P2oqwbf6sR8cBy8j2XCcti67lwNPGP1kcZxUznr+ETnwOZNDp0BU23/R9AFgZ0Aj1FaC5CjK5R75SgGxlkqCAr0Zd67xrf+C3RPvWqO6FiBYRS98i1q/6Ovn3nJAB/RypIocLVfdbqILU5g+46qHXK9C6G0eHZ6xRBWFIPC3pfP/fcRFz2b/VJzQQiJo46cDgHVDresEsUfXAUrwpQE95qQbioO1YsaMLCq79Xlrs6zsSb+Prpiz/pUc4mY7lYK+R0QTeIlvpfwDnmTa9U/ua+AfkqMuDnKsIdEsqyQliDhOZHnqskRKPZ2uagWSZQkGQUYyTkJNXGJGCH4dY1zQCZQu/hLVyngwkOFMg==
+    properties :
+     x : 8
+     y : 58
+     width : 256
+     height : 52
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        internal_properties : CAAAAAgAAACZW0zHZz0yBlGa1xhsZ/Yfkcs+3EaXl4sZUKsmeGVJ2avGuBjV8tUxkkk/BqyS+9zBPKikxjqxZSUsb2Ads0/zGjLTBqY7MyUPoUm32y0RoQBqU2oP3qU0P7ec1zwsnE/uas6kw1Yw/PLEZT4=
+        code : |1+
+         // Pour l'exemple nous avons choisi des codes-barres EAN13
+         // Le code produit est donc sur 13 caractères.
+         
+         // Le choix "Fin de saisie automatique dans les 7 onglets de description du champ permet d'exécuter automatiquement ce code lorsque:
+         // - l'utilisateur a saisi le code complet
+         // - la valeur est récupérée par scan du code-barres.
+         
+         Si moimeme <> 0 alors
+         	Inventorier(moimeme)    
+         FIN
+         
+        type : 16
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+      -
+        code : |1-
+         
+        type : 17
+  -
+    name : BTN_Rechercher
+    identifier : 0x2f1d85c5243633fb
+    internal_properties : CAAAAAgAAACjxKrnyN9UYGWu5hUP4VXW73w0UwycyRtE5qnI5hR7rIACTiTj4eitVYK7wWyqcfIPfJey6KLaRj5M4taa4HoFFWSAaMcgCngxLSQinZZQW3QMw7Ik8G78KMvkyy+7x2RSRjeFqyopf7HyPtU4Tg/CZIeuQGSn7Z2Wdfk7RofhMJKKIHNI4//Rdm2NapjpdH3Gp4uwwFKJqmcjjxptBouoTmWA6S5EEWBdpTsFzx4Tf9EDKD0eiE0SEycF3MObBLd4qqYFNI1dGFkgdrOXXqDvRnS7/N0nY2/Ll32mnM2INLWJ1QiTWBtHrfWS2Mfbrqe22AIW7UVU5JiAAdQZCzFdmEYRKgUMe5QyNpB95TBZ34jotJPSam+T+VeLE6gJk5RYTBTHQz/64GMfXeXuS0I5gi72bfoI/WdypScruY7LMQzXqvNswaHPL8PhWUVB9A4f36WIj/8xMYoJV12RdXt35J6oqnJAVy2fYM/p8Vuc4gGWNajxdm//QPcVL3Cw4k17OhM7QHSAr1RGQql6TEROQrnAv4pEbdCYv8PJWHiTqTqTQv1EXTwHFlNcp56xDjEEX6v2fsBsK3/MLuYLUjuhpsPnk8jxF5ys+Q1abTH3zWk/98gOIxd4abozfKxKmMgU0vyQwQQo2n557QVOn/lXzSFANzo5t8N+tIIs+pTAhbPNacInb3uZi7ylMyUTfQ5BfFnplEAlh2Wda0Ig5DqfuhcaFoBawJIiAgHyOAGjy84JVegXGWeOGNa57X3i2WbfN+8kIcHuedDk/7YnRBlylvrPh72cctH+4WMqSUIhM+rmiodXqvaJgP7EYpnW1G6MjFv02m3rY7iHTQ6WfxKELFd3OMFaWU9kQXtD+ibF4SaW5MI0WBYff1NuYDMRKpzHBshdUyoONxhmpqsBjnwFN4UtYQKjScxlNAryV25UAFsrgDvbkyp/6aqi
+    properties :
+     x : 266
+     y : 61
+     width : 46
+     height : 48
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         si EnModeSimulateurAndroid = faux ALORS
+         	
+         	SI SAI_CodeBarres <> 0 ALORS
+         		Inventorier(SAI_CodeBarres)    
+         	FIN
+         	
+         FIN
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : ZR_Produits
+    identifier : 0x2f1d887f2592db41
+    internal_properties : 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
+    properties :
+     y : 126
+     width : 320
+     height : 304
+    controls :
+     -
+       name : LIB_Code
+       identifier : 0x2f1d88a125a86087
+       internal_properties : CAAAAAgAAAAv/wijnSWEuQD65bEyap4COW8qf1z5cIyLypE7yxuiCZY8p/OrhRNCjaSv6duxtc67K2+HNx+WKOfD7IswXxlygz/CfhW3iS4jGB0qhUntUNa/0cl2NTcilRYxQie/uhs9eXPP8UaAE0jZgu0HXYLVur+gQ/Ulj85/G+xVq0p3bo84TOVqAv5PcpD5g9a9JNy8qSUdW7GvctjB+LlsDvU8R4g/CAYRLlvq724zwB2XM1GyBHvM2csEnInKsVYP4nI7xcwMCcmRcxm8j/LOYamNOX7jUO5cmwCBokXJ5hB/smy4TUa83UhtYJ3/lZI3/n06oX1nEl1HlQKy8eUVJi1zZr9XyS6wMgh0Q1DyypWbET5B5jNKMFfco58aclvjrPN4oZo7l3oAmqvj3a8ADatZgyXnlmXbKFa/eudtU5Jpzi+e+f51dLbGCRc6yudDmn9jj49EkL9pc0S3mH+RpCI48C8w8A/qzAmymv5wvjE2e8uBSSuHc7Q=
+       properties :
+        x : 50
+        y : 26
+        width : 137
+        height : 22
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : LIB_Libellé
+       identifier : 0x2f1d88b525acad6e
+       internal_properties : CAAAAAgAAADJUoCaspwLM2IGv9uJD9ZES3A1DdSO9aYoAZm9jUgYcwiXjH2a7VrIdjcz0rM1OpYdzuJM6r+umnSXgSw3fQOuTUYqF7XbCvmGNMKfMUSPZkj9FZbYE8hHqfXs0FiXDq49SnCJw+bsFEmoKBS6MzWALuu9YRrWP2GCvLH6q0sHJLm7QJSqgt4EK9x2N2q9IaCKpQrIQ7MmYy+4umMZAvsT2v+4ftV0z6zg6d6DJFDluVW5CeyGzIWdcbpvVq/c5ZwNkHcqevmExt9AoD/aZQ5xqLqfdKm9dEWRFXBltm1tgMDtVtLekHSJHyxxRrmrG20rLdkO6/Lk74N/cY9RQPAVBCcOBNRuVptxL48HTDmhYQ+eDzH3OHRAbHvLO7ih37ov/84t3pMhavgKeGn0c1nz7zcWag5XsbWhaGHYm7tQ2wP44KGjSIuMfBf3QG04KSwtoaUsUCdhgWKpfEdazboMN4ce0TaFBNk+ilGdHyjhEkiL1peEmIriZCMpCVc+ow/y7LyjYuznnikvAq+3J9wQPYkAWu4=
+       properties :
+        x : 2
+        y : 2
+        width : 312
+        height : 22
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : LIB_Qté
+       identifier : 0x2f1d88bd25b0cb2b
+       internal_properties : CAAAAAgAAAB5qWXFq/pUeCDIl1mM+m+AUaAkWzCnEISnGACBDDyFVLb7vmys1v3vrgWTcdf+zjZSBN/w/KBZopZb5KYmi29OpJARe/QP7ht4ppe9XHbWDYl7B4uyilMqNlAs7AfDUROV897eOHwC7xpHhM6uJiyPzOGrinvCCIOxYSwSuOEYGlwUEjcxqAmXWZ3BeqUSOXn+3YZNLA5xrEIvx5/XZXFkXWpBvNJs98CKqrjgdWdrcUoBxL6Xth+oXAaDeHq6DxJg3YPUwh/JCZMy1QX6DgxS8qnbSMtHHRxqBXEql7UApODevmJfpGUa2sPVYMujNHsGrPZ4AShNXfySk9khrHNr3rN9imZPJLToghzuos8tQgnY0N+zMRJfPtgeprPLZkpW3+NtNtdfe3gwYmKXwH7udoZwn5T2mQYsHBcVWxaBuIGhOMt4zoMXQO5N3/x+19o8ZNgbF1Q3nbpXuC4EpztxQyoRjXxqPK/xTyvjyTRXmz/gIJ7dJWI=
+       properties :
+        x : 252
+        y : 26
+        width : 63
+        height : 22
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : LIB_Code1
+       identifier : 0x2f1ebab206302744
+       internal_properties : CAAAAAgAAABg4d3z+C3iY+XIe+5TsBwEcBnL2DzVD/furR7znzwwAPofMWu93vjlAtmG9YG5xXxjgUvcTSL3viCa899P4PACPsdiS7sRgPUffI75H96TH9A34gUVXRO9zLh8MPTs+lqxMm+G7vyRJjyPgapv4kaWpwiGBQczyfejzioVMbE/54oTXkIDeN9Wuc623r3eH7dlKEDZ4I5ApTW4JN+ynXu6HZiYQWa80iTmdEEnL40Ap2PJLq957o4KQql4ciuPAryCO0L/Vbf6Yhzv95xel/2XUBFifXBuw8IcGo1++skMNytVnLtcRjrQnp6hOC9/b7WlGeaToonWP4KqO4gjmhJHBKMuhQQTOieVhPGSnAxlurOS4YDtVnTsxlVEkqdreiG1KuQgmjk9qzMUuU6GfCWzBIZvCouvkcOZiyq78A7db+I=
+       properties :
+        x : 2
+        y : 28
+        width : 49
+        height : 20
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : LIB_Qté1
+       identifier : 0x2f1ebace06359497
+       internal_properties : CAAAAAgAAAAQXzltFMZ5v+bdBhoywdoof8Y0HCr06ISvsUEpchcDrgA6aEmto4kIua144C5SQYMsWtiUk8HiW6YYXXNfv0lOK+donSSCHWmR6HiXR+aNUERQYDMyfKYa2b6sjZkxlJmYuBy8VgzdOcES0SrB03umY4hQGThXYWEAgMdp4nWssUXoeRrPLWrE6plRWMjDUeNErzkXivN1LIRp4yhjphyP2ZEBxGDQofmszAGU0ADu10w5JVVQgYXu0sUkTV0poavSpUjeezmknyJZR51ebLwtGGgx3Yx7+PciDXn2yLpYON8hIaasGIIRzPffuIkpvpR1gaeZ8vDfirLXyqHaWJEMH+uvFXqA22YRNw0Uus11ox0PX2SI+SIJ9aCjL4AMHY/F7dFKuscUy79dlKgQ3M2YkUPu+rAe8FKUhQ8g1F+GoXY7aOEC0POoj1UV91wmCfPCCiKVpS5zOXvOgGCrpAcU
+       properties :
+        x : 216
+        y : 28
+        width : 37
+        height : 20
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+    columns :
+     -
+       name : ATT_Code
+       identifier : 0x2f1d891c26193fae
+       internal_properties : CAAAAAgAAAA1i/33WoZ1NjJv75KoWXQHF0kE7CWpaUU62XagdtVXp1Xl5EEQE4NzIAuXoZ2bYG7O8v36bjLV2+MkKQ7Rr8JZ+YsnjLVS7ji5FAxo2uqDJGxzCc/tpIBir4AQxeL0T4GHRQY50/zc34t/CYWOehE8Em+x6fB0QfFUyaoeKw4botl7O1MyXPHMpJEg08Mqrz68KRV2gzVGawi8tA==
+       type : 3
+       content :
+        identifier : 0x2543d82702e897fd
+        internal_properties : CAAAAAgAAAA+ydwH69gPtZH9qoG8K7G6DH/mRhLAsIA4PXnwyQx9MV8BNs7UzvWB7NTCuEJWvBmA5CdsnUFWw3dCUBfdsaykjF1uve6LPYfwNBNWYEJulQmozEPUgRf5BggPT0njovHi1TUZ3dMWVWJDzVO7BYEECF/l1PEjm665bwXVv4LK4oa6xdFXhLX48q7GZuO+5fIY2l9pbbTIT9LWlT6k
+        type : 3
+       code_elements :
+        type_code : 46
+        p_codes : []
+     -
+       name : ATT_Libellé
+       identifier : 0x2f1d891c261b3fae
+       internal_properties : CAAAAAgAAACo0EJIc1lL3FMKwwYNzc0x8sbbAmNiZH69WWT5+vmUISnTEXp0zguL/Mc7x7v9X2+RrLhU4VAtJli6SsIkouxkmdnkiTqVKsjWLoEZq7igFoKUrmTNWbg7eMWLWuZNUwXQz0sWOzW05AAgsj7qs4gy4e/OVioHbbpJ0huBaacOnE3gSJRpopfU3Jyk4f6lOkYTR+KzUffaEMUCNIcG0DGOoo0l0g==
+       type : 3
+       content :
+        identifier : 0x2543d82702ea97fd
+        internal_properties : CAAAAAgAAAA+ydwH69gPtZH9qoG8K7G6DH/mRhLAsIA4PXnwyQx9MV8BNs7UzvWB7NTCuEJWvBmA5CdsnUFWw3dCUBfdsaykjF1uve6LPYfwNBNWYEJulQmozEPUgRf5BggPT0njovHi1TUZ3dMWVWJDzVO7BYEECF/l1PEjm665bwXVv4LK4oa6xdFXhLX48q7GZuO+5fIY2l9pbbTIT9LWlT6k
+        type : 3
+       code_elements :
+        type_code : 46
+        p_codes : []
+     -
+       name : ATT_Quantité
+       identifier : 0x2f1d891c261d3fae
+       internal_properties : CAAAAAgAAAB0n0DBMNcIPEMQNMBVyXhD+COLZDvqgFRZbBgr06xzHMvEKnLpXW7wdY1gzXoQvRqdLHl9/Y5SWig6p9Qa8YlmvuXC89dPiWQLcQS3ziwp/Wn7tCotFAza621s/noy9cTG6Y2A9aJ6j4+oAZ7kXlGDCTOq4LDKhzlIqjyZTZSEhRVgeQ3nszYXNxtHxbJVVhIKBEUQ+ip3Gv7qgwhu
+       type : 3
+       content :
+        identifier : 0x2543d82702ec97fd
+        internal_properties : CAAAAAgAAAA+ydwH69gPtZH9qoG8K7G6DH/mRhLAsIA4PXnwyQx9MV8BNs7UzvWB7NTCuEJWvBmA5CdsnUFWw3dCUBfdsaykjF1uve6LPYfwNBNWYEJulQmozEPUgRf5BggPT0njovHi1TUZ3dMWVWJDzVO7BYEECF/l1PEjm665bwXVv4LK4oa6xdFXhLX48q7GZuO+5fIY2l9pbbTIT9LWlT6k
+        type : 3
+       code_elements :
+        type_code : 46
+        p_codes : []
+    type : 30
+    code_elements :
+     internal_properties : CAAAAAgAAAAMxRuafyVNy704u2gGa1N0Pkg09d/V1gC0eCCxk/WsVrb4keiMqD/PmbxlBN8m8SGX7gYCxqsL/8frAU+xOfG7dsYsJKjhJeQ=
+     type_code : 42
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+      -
+        code : |1+
+         
+         
+        type : 19
+      -
+        type : 22
+        enabled : false
+      -
+        type : 24
+        enabled : false
+      -
+        type : 23
+        enabled : false
+      -
+        type : 25
+        enabled : false
+      -
+        code : |1+
+         
+         // On ouvre la fenêtre permettant de saisir la quantité de produits inventoriés
+          OuvreFenêtreMobile(FEN_Quantité)	
+         
+        type : 33
+      -
+        type : 230
+        enabled : false
+      -
+        type : 241
+        enabled : false
+      -
+        type : 222
+        enabled : false
+      -
+        type : 223
+        enabled : false
+      -
+        type : 224
+        enabled : false
+  -
+    name : BTN_Scanner
+    identifier : 0x2f1e82c501a6b146
+    internal_properties : CAAAAAgAAABrX+VigFyZrsC73Yl4XfSaGFgqFDs0Qg0Bw2lBTZTzXkWVdmLOAeVHbnyD6bhH6Vj2TCGXiWEbAGoWrpEkBOddclC3JRet6Dlk+SNl/r+5KSOgikpeKjXIV3FuWmyFl/EHOi11d+BhpjReW6oBoT2y694Ujakx/2D9AeBpMk2zdsQnwcVm2m8y1xXs5ok2m/5tl+vUsKawFOnNK258ZkBWtRvWzXP0pRIo5vStLVFAMgfLKRx43voizXmrWGMkIQAWi541aDmSz83WOsHW2E0vD8J1Vem59Fkzt+glwK7ItdusnjlGuorA02vhz8eQW/oO8xs0vGuwNS1uv5ttJRMaOOB7Ic1roFZJ3vgHU/pQfhuDrIEnCvPkG8pHvPhdif3A0ypXFRoE0PjpSGbfqXTdbUFupIaaYsimaEwsSq1kMmCMDXb/tvRTs3oMRojIxa0E3hDCRwtPdodVWyIqgRdPF8R7eUSky5dCNSAMJWo8CyUIzusbBqxGRkXvQT4WRdYsNjZARZomQ0knSL80rHZdHhQKoPU4/Q/yjh689g6tErL5wAXYBxCO+xfORc3MMO3dPJhP1XXLEbR761kDQhDYQa0hnpYji0ty5+GOs1+ICZuYhrDO/e9vCdgAwrmpyDE29OSoMfe5SEVTktaTOkqq1Q/pW9Q12GqwmVH8PEqsfKv6fv/zlZ1EpCbYpfPraj0DixkjniOvKMzoeFnl3xVnzV5OkKjVwvIZH1+TxK0XkwfS6cXaYMoMVtZpFFGBAB4LfbGqXJfb8yHiD4jWg2jZY9KKFZ3dwoKp+tahmNknnv+4CIbF3R0lsT05LxqwrT4v1MokRutBZ3EUsOuAeQHYAkbp3n3UKiaV/MpZVZmJiMHKCCuWgtDENT/mXS8YDS802f/8ZCfSBUa0gtTJsy5nf2bm
+    properties :
+     x : 8
+     y : 6
+     width : 304
+     height : 48
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        internal_properties : CAAAAAgAAAAzqvGSFFGKV8NjI10Ud1RkRbWciAFzqwJDHAZLG21cLuVHX1X9ZcJgPI4ErNc58fkXQDApgLMkXzPqroZdCiA2bgA+MpvST8qgkV08rnr1uzXai91QRJUo5EnX7YxUC7s3yfyT6rKh2pSOGUYVOHLEYQ/nYfw5QhYPZNwxvBtkCgX9FWRFRUIXtQEoghp13B8=
+        code : |1-
+         
+         SI EnModeTest ALORS
+         	Erreur("En simulateur, le scan de code-barres n'est pas disponible")
+         	retour
+         fin
+         
+         //Lancement du scan du code-barres
+         CBProduit est un CodeBarres
+         
+         CBProduit = CBCapture(CB_EAN13)
+         
+         SI ErreurDétectée = Faux ALORS
+         	SAI_CodeBarres = CBProduit..ValeurBrute
+         	ExécuteTraitement(BTN_Rechercher, trtclic)
+         sinon
+         	erreur("Une erreur est survenue pendant le scan du code-barres")
+         FIN
+        type : 18
+      -
+        type : 161
+        enabled : false
+ menu :
+  name : _Menu
+  identifier : 0x26926d8b0749e9bf
+  internal_properties : CAAAAAgAAAA1ZD8rIMCL58JWuNnVjas77dpdFunt9S3qFKN9NBZi2HX5rDo9G8WzQfxCytv39agV4K5RvfK1Oa90pBInQGGljh+oqyB5hqyflFVPc1uvj2Ou9NsIBmhNls5Ow1e30eTyEQU4zfwHAcBhR7oEfU0EINw3XbzM86PxpbDi+FEuu/8oIeuAQeHkg6NjzC6kCa40RH/mgeWmSOqMrf4OplU5awsYzXnzuojrokfv3MV8a4uOdEw2ECXpaHwynx6BrB4shEYWFyD30dQT3+46yfIYwqEf+4hnLkJqUxQBvrA6
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAABfQMFzLsK4cGJZjw9mCmoNa53E089Tks6i0FiNhVrZi3XWx/V6xCuPXTHGfTD1d2LMSPyn5OaB9ZmIwvdCsQVGJ4mi4L9WSt6OMtqYYc46PSNMFC0HZO1QZRYe
+ actionbar : {}
+ code_elements :
+  internal_properties : CAAAAAgAAACXiHbz5sxAgg5oBw263mrRnl5QmeWZ2tcO8dL8nvaYYNJAxuxYRbm37sT8zEv+32HGTo1rg0gLMk+wPSg2esA=
+  type_code : 1
+  p_codes :
+   -
+     code : |1-
+      
+   -
+     code : |1-
+      
+      
+      // On efface le contenu du champ "code-barres" 
+      FEN_Principale.SAI_CodeBarres = "" 
+      
+      // On rafraîchit la zone répétée 
+      ZoneRépétéeAffiche(FEN_Principale.ZR_Produits)
+      
+      
+      DonneFocus(FEN_Principale.BTN_Scanner)
+     type : 177
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     type : 11
+   -
+     type : 12
+   -
+     type : 17
+   -
+     type : 13
+   -
+     code : |1-
+      
+     type : 65792
+  procedures :
+   -
+     name : Inventorier
+     procedure_id : 1626482859213318591
+     type_code : 14
+     code : |1+
+      Procédure Inventorier(local CodeProduit)
+      
+      SI CodeProduit = 0 ALORS
+      	// Aucun code produit n'a été saisi
+      	Erreur(<§$001b§>)
+      	RepriseSaisie(SAI_CodeBarres)
+      FIN
+      
+      nLigne est un entier
+      nLigne = ZoneRépétéeCherche(att_Code,CodeProduit)
+      
+      
+      SI nLigne <> -1 ALORS 
+      	
+      	//On se positionne sur le bon produit dans la base de données	
+      	HLitRecherchePremier(PRODUIT,CodeBarre,CodeProduit)	
+      	// On ouvre la fenêtre permettant de saisir la quantité de produits inventoriés
+      	OuvreFenêtreMobile(FEN_Quantité)	
+      	
+      SINON
+      	// Le code qui vient d'être scanné ou saisi : il n'existe pas dans notre base des produits.
+      	// Je vais proposer à l'utilisateur de créer la fiche ... après lui avoir posé la bonne question ..
+      	SI OuiNon (chaineconstruit(<§$001c§>,CodeProduit)+RC+<§$001a§>) ALORS
+      		// Si l'utilisateur valide l'ajout, je rafraîchis la table ...
+      		OuvreFenêtreMobile(fen_CreeFicheProduit,CodeProduit)
+      	fin
+      FIN
+      
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : FenPrincipale
+resources :
+ string_res :
+  identifier : 0x106af724006e3d07
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+  strings :
+   -
+     text :
+      fr-FR : " Souhaitez-vous ajouter ce produit dans la base ?"
+     index : 26
+   -
+     text :
+      fr-FR : Veuillez saisir un code produit.
+     index : 27
+   -
+     text :
+      fr-FR : Le code %1 n'est pas un code produit référencé.
+     index : 28
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

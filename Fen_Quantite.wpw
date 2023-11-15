@@ -1,0 +1,261 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FEN_Quantité
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : FEN_Quantité
+ identifier : 0x26926d92076001d1
+ internal_properties : CAAAAAgAAACBCnGx5k+VFjNkzt0zL8HivJIDXSCHYOuHiH01jbQLVTEy3LC5jj66ihLvokpzGl6ub6HJj2UnWtYwggEQNjoArd6MAtuKLITIf0Cwg1yDWiCX7aaZQMv7C9r2W+ZMVC0tsy65FruIXl6tpqHC8wbp7VS7tERVUDgPVudEIZAbNyAY2OyVgtwI3a6mTEkNw8hc/sJICSNk7ThiRMjNu8ILCSZ6ukOkjjy59MxmjPg8kr+jvsVOeSUErlUkW3z61auXPig+5F2SZ5fyEavuLuJz7i48NbwHLlEyUh90exRK7QAElUWiE38j9wF79jI7DEft6qVkvMgIfC5zT5XYKVcE5r3g9aZbI5rfx6RXHZEH6FuhELhhvfub93Q/HtKkmy4Mbf69Ob6LtruVRuyo0ucmqyh24G2p8Fiab8tf/f5iq3ZdLg81z4lC0WZGhAwg/gM6jfl3RO/Ywzk4THjvi9bfJUycdKxsmJWdNG3v8B4ySwe+1dOQVs4VV2uOgfJC0v3OOr0nV5/jtvCrbwMsyLY5asYiRFJOAW4s+88Z6MJIok7FRmLEic9IKm2Qa/dbg0HZkt99g9+gZXd4kelHU2fQZFawk0Zvjq/XpNJQ16uEBBEuC7WmM51IYUqUkDI2knp11GUJPcdX+nHSQq8VsTdxsba4kEMVnVxqyYZGM1mixESdYAVgarWfutqb63qfhZdXDL0UwVUlJKyArx14wT3nMkFIZZuhSZ8vp3UTYwK7fY6llctcKYvGVS+D5ZfLAS+cx59LoLhOYTMVD8iZKlAoqpbcGMquiIk=
+ properties :
+  width : 320
+  height : 455
+  heightMin : 480
+ controls :
+  -
+    name : SAI_Quantité
+    identifier : 0x26926d92076301d1
+    internal_properties : CAAAAAgAAADGoL0N+G8SXWa2uG0ID/FLqNSXU2P2HCGciaJ0kuXH6zgk6CF5xiogsA15ZCKkv0yTh0qbpAkuJP9zFUYnbib92Ioird8Ibr7df16zK8gJ6V5iOjTE1xwJslgYpKzx3wZ91Q0jEKMm8YADsvd2lbhGj7GDin46PKji8FCHDmYtngopsjKKpO/AUuF0RMKZGta8pXJu0fjLLwJLle8ej76quVIX79D1Jn41YH6CRnqX+92zyq2IZ8OCu2i0suE4ONNgqC8m+3A756+xrNSklFxfnE6Z5S++Rq7PbrTHzYpOxEQBU216951WNbH01Kz8jE7osI2mYC9dKqp/Uj9FROw8PQzk38J2oO8Qyp00aATyUnLTLru59imBRPRoQdYe4YYXKBfBgts6GqUsi+ZkxCUWmyBHuMnLdpsBgBSiy0LqjWt5BPRUeB6a/WbsE2qy5Ot+t/CnxcoKuYlRMN4pXwY3rLhgh/UHTC5o1mTCPd/VHPbnvQiG/yextRH/JrkCsf4yGgh7XynTTyhTH2zhu5yJfDg1q9A/h/uSn/p2jCoIxGSkqNM6kb20Y8OjV1rF/CTdRygSj0mQrhK9cYgupeD4PvhmOf17I+HtmaZkHHYU1NwKv815Wc/K3HhW1rZeDfPVi1G9/jU7bBXTXKBTC85FGsuOWCyDjnhgpseZS/euepDiJpZMhz7+qQVVikRNZpyaJ4eHXWYGx6cOd3TWqLHR/8bSzoQPnCYYg9F0EoqBlSWYzouColz1bpCZ/UqdBYZW+qBlQdPlYlOvWeMJW0gnqmP3DTZQTK0ecvADgCuXUtHp+qyVOmgVmA8GxVlEWF3AdnKvMXVo5ZGRBf/n/e824nZrnxKzHUYnMfmGyaqlVrG7+KFUZBBDcr1Bn/Ss4n23frjcBIcrYVJa2nkXizE9+IRiSrb0AOleKTa45m16xtygxxAl3VtabkjCWOODfNheysLnuXe7d6ypw9+vlBKmIO4oMCI45EHaSgsN8fmeYr9x9+uwcHaH5gh9uymlcErtzWf9eM7JnbleVApeguhXLhAMeE1o8CvoYFAOyWV4YBJVHS0uIKCGTqiQqJNvc2PzNw==
+    properties :
+     x : 58
+     y : 50
+     width : 203
+     height : 80
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        code : |1+
+         moimeme = 1
+        type : 14
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+      -
+        type : 65792
+  -
+    name : BTN_Plus
+    identifier : 0x26926d92076501d1
+    internal_properties : CAAAAAgAAADGPmX9rE5xZn/MnVbF28laVj+q5wJymiSTIv+i39r8d4uSQ1qn0ikZE0+NpQ+NPgzabjlo/Y2OHa0P7EVMnuml+vTgmUormYTndhFvQuJnXmIAYBAlKKUMdr0NoTq5i2YQAGk6qDCN8fhDxX6AQHYuMd51bulGRFl99yo8R5rF9jvVQSo9+L0kMETtAyRhsSsnvhXwHstyt3EOWaCefVhqRMaX8HnFqcR/pK5h8qEhEDVxofEZ7Au+jlmQTBLDXuYAzII3u+EksooGVB1B/DjPftEyqrwIoNvjzSTYwOVkhGSDo9i7K6kGi/AYOfNv09ot7oto5Oelx54qCHWSKBeofJ9IJam/mD3u4nPFPw65xapmYuk7fd5GWFh/n3E+7tPBFui5Wt5Rwo0pyZojR4UXabBGOOs3xAdteDk5QItdueys2m6ontziw0ruICKJX4i6Ui9tBtalHh6ZbDAWj4hbo0eihBq8qFBvsbDx0ga0+sQWkHkZfRFcSkXoogaH4mtj2eChIbdRVkUUN4Z86stu7DkQEQcRZH1QbWAzVjx7MNe00RpqHCxNTGLSg7btYD+43KhFYIuKbkH8l3Kd4N7YqyqwS3Jlkx+PXvVcG+0NuC725sNvEGdQjt6ifa4zOTFRm4h/EAsC+LfH8iATyoV0HHHg8amKgtXSmuxNRIlPFfZADPlfWxpFhYIwP8Lz4JgJNEQ/Wxg9G2sTBrBTq+gDMwhPxoCGkjRikazlF2kX01ukEinUH88l3OINHpxRitJfA8cSeI0VQqskVkvA/V0JY5tHgTYK0NUc4Is1D5DDePM6rgL/sgXRgUX7hFmnrgRU4U+kzg9dY9G7h9LXdW86XCJ2W0ESlJhkkKBTjHqj+oMIzgE0orckbc9skxsUIYz+rqA6bFhjrWrzljhKEz3W8Q8li5lVap0TVWd4NFTE6w4hPQ==
+    properties :
+     x : 64
+     y : 137
+     width : 80
+     height : 80
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         
+         SAI_Quantité = SAI_Quantité + 1
+        type : 18
+      -
+        type : 161
+        enabled : false
+      -
+        code : |1+
+         
+         // Lance le timer automatique d'incrémentation de la quantité
+         nTimerIncrémente = TimerSys(Incrémente,15)
+        type : 66049
+      -
+        code : |1-
+         // On arrête le timer automatique
+         si nTimerIncrémente <> 0 alors
+         	FinTimerSys(nTimerIncrémente)
+         	nTimerIncrémente = 0
+         fin
+         
+         ecranpremier(BTN_Valider)
+        type : 66050
+  -
+    name : BTN_Moins
+    identifier : 0x26926d92076601d1
+    internal_properties : CAAAAAgAAABTtPhVIBS/tkAtDIfz0whn6RS0bDfTw5oRn933NR705nLfY8qAcwm79wRW4fLdgDNcXMd8v7bJIggsXYjbz6scpinSbnV8RbDmgVbuTQEeAcyKCliokbYZDcyw7AeEhNV9CVvbY619/bfNP5XFSUuGLQVIS5NMu4UHLU3AJyR122Qq/ZzjZaUnQZTxS2ld5q5ZkwvUMORMvXS8oF4Bo83poXnJRGvRKnN4G1Z1UWBQ21LgbHz9i3y5Tfpyizh4bx4QpqBqGyyqYMXbmy42Ja3f912lk27NE/f5sXbZa/qasYicxAFs74g2hzLVPXDT7RAIICHAtzwhj262YVxX37+FtTR/9U4zLxsPqM5YazFF9rfoUd4qq86rNOZCUcRLOAah9kv4GTWwtvJ8BRs6FbmIegh8zo4LdR7XyX7YURH0Xoze96AaoLBeriPriNvtSwIw8Oh5oYVgLztpqh2NzdNInR4IIA1mqwrbObjHFeeowxK5WwYfIqbE3Rjcfsb6o1wUBsnC0fG7bAgbA6qlFxhRQj9EDcrNwH/ZuLrlToWw/7fjHeUJeVgqsAFjEjsn8rB1atKXfuvuEfaW2yivXmydQK6Gu6b//XS2YqviBV+fmRP4yuUVaMPZMXhina0J5oMw1gYdmkEQk0Dp/pzzNnX3D7xDePyvceH0r9k8H4ye88ZR3UIk0oiYivPjp5LrPMMef4afPb/qKnkut2i3T9MEp+s/J9sZIjYx3sJbWn4HsoIeQBLuwx08DYKCg9f2Q1ziscvWgJJzgOaGKyL0e9dr7lpe6myHeRevg7n85Dtkr99+aqf3g4vkist4Vp52tpy2vI9gbHlXFlPvW6iJYSCKApZVIT4v1AOebrQl3dcATLokF9AzA3nS8aq5h4HyZ47woS/CZWQNuoCpuxJliDgnAI6Krsi5UZR0lP+LYPy1dJSooe0te4INWVrS
+    properties :
+     x : 181
+     y : 137
+     width : 80
+     height : 80
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         SAI_Quantité = SAI_Quantité - 1
+        type : 18
+      -
+        type : 161
+        enabled : false
+      -
+        code : |1-
+         
+        type : 66048
+      -
+        code : |1+
+         
+         // Lance le timer automatique de décrémentation
+         nTimerdécrémente = TimerSys(Décrémente, 15)
+        type : 66049
+      -
+        code : |1-
+         // On arrête le timer automatique
+         si nTimerDécrémente <> 0 alors
+         	FinTimerSys(nTimerDécrémente)
+         	nTimerDécrémente = 0
+         fin
+         
+         
+         ecranpremier(BTN_Valider)
+        type : 66050
+  -
+    name : LIB_DésignationArticle
+    identifier : 0x26926d92076701d1
+    internal_properties : CAAAAAgAAACcT+r1bUro4D5u8nXnWXx4owkGbrJD8ylx5iQfixqNvDzMIm4KQg3yT69obfJouV4urTcwdQecvL+To7scXhhlFQe7zDobytRMIOdLzOcirelLw+1eTCDLa7/wtF9yjcuaAvI0BRbwLVdAh0i1lN1t5toeV5Zm3MwXlexjRbAxBTn1wVqp3+Xn6cpjIc4ZiI2kn9Kv8pLik88jntOWyxwKL24Xc3FUSvLKvZH2QmD/FdtABlhrGTF6ePJmxWVfa7WnHil8rOiZlPF7HCnblR68/dgWN2DSkLWyXBTCwgVGjadUs0U/NBRTkyuJkVG+kUKwYTBjhFhljYwh3WYAT6v+F+CM5jsjrqqfgszuG9cXqYhTRuafSdKzuSVeM+12pjMhYcLHxqn90VLX5lHNQZswil3F2Bi/QuXWf0SzDEeraqB3yRi1hzOx1ow7B9Ku4gG0aMpuO7cLzUbFJPwqqiAriaKpb2rvM7SF5Rf5pCoRUVBz8sGkx0wvzWsq6ZXt3yxYB/uw/37Bp63rKOXMP++BdIUa7+b1CdVtwQ4LdU+wu1BXB4mra9sNqQDAab2P6Q==
+    properties :
+     x : 2
+     y : 7
+     width : 315
+     height : 42
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : BTN_Valider
+    identifier : 0x2f1ec2a40aa831ef
+    internal_properties : CAAAAAgAAACD+rbjtU1d/tyJJKhy6b81C1yXtIHWapkqHrdUwGeRCRTzBMKzpx0SaYVU/cjez6lyyxHkbyOdUagF1K8syLjShmtl8YxTZEXWF7Ej1ceZmm7ipsc9OFaZuxTw5U4BUd0ie8BHW35CdbuCM9Ktf/0O/X+z9J2V9v5hOJOZmwQQ+Bn1A3COD5wbT0gIepLbBdob9dOxOwsyyi7ZlIS6Z7UskfCYkHkX6GpoVeyGVJC8tAbxmvR+SZ+m0f8v9MDVhulClSfvFZ6frrL1LicabPPJ/FH4iGYpWkIl5SCVwhSg6nHP0gA5ApxkntkXZFkRUpgV9u/Cvwuz6khRnHTC8R7C11CnEhPOQqdOqClHqCTukmrBgx4A3FmgnaKTsiesj8qFEsAATTkzwBVKr5/BsgFEhPGR8WLF5Nwa8fbRcCfa7bH+PEUVA/fZCD6QS1AhA0UuUZ42fCy1FqFlQ4cFzthQAmsPRR9T0cl1iNYw7MQHz2qvv1jYl+cvleqJvSAtt+f6G6mznq16hcQohjdwT08QVT8PVQJscq5pRq7YrNe6w8C+CFpEXRF3V3icR/a+Kn3RpvO9gb7WCkIaaroa+hSgQ8x+BN+QHd6aRSHIuM+TxZBbxbnzo3Xzs7Wp7WLC9V202tbBlBExvLbjE+LCQYb1ZR8zAsG0ZYvISGBe/81k6BX6nTo0VdMj4Lth8/v2tlPQ52IfFMNEMX7uI9Whr1d2s+TrtU5FupPdtNm2WGG2iqahaS6jw/nzcMcQVFwB0Yt65XnAmsmMptzHNpoPK0Z053kNxC2I0KdvuJyAEISJpESR+8s8pZAFBf9dezfHIDlhPKAZ1CitdVItja+sFQUS6brqIgFh7YuK4/nWpwqg6fwSQ20I/VYTcqAllviLHVqxCpn/dxuxH68gn6/bcXGM9vsZjn1iOYyV2sy2frYDXc1yYlXfyVlAgCaTzj3ljI8=
+    properties :
+     x : 64
+     y : 236
+     width : 197
+     height : 48
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         
+         // Mise à jour la base de données
+         PRODUIT.QteStocks = SAI_Quantité
+         HModifie(PRODUIT)
+         
+         Ferme()
+        type : 18
+      -
+        type : 161
+        enabled : false
+ menu :
+  name : _Menu
+  identifier : 0x26926d92076a01d1
+  internal_properties : CAAAAAgAAAA1ZD8rIMCL58JWuNnVjas77dpdFunt9S3qFKN9NBZi2HX5rDo9G8WzQfxCytv39agV4K5RvfK1Oa90pBInQGGljh+oqyB5hqyflFVPc1uvj2Ou9NsIBmhNls5Ow1e30eTyEQU4zfwHAcBhR7oEfU0EINw3XbzM86PxpbDi+FEuu/8oIeuAQeHkg6NjzC6kCa40RH/mgeWmSOqMrf4OplU5awsYzXnzuojrokfv3MV8a4uOdEw2ECXpaHwynx6BrB4shEYWFyD30dQT3+46yfIYwqEf+4hnLkJqUxQBvrA6
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAADN8n+tRKiWflSnBdWUQDCD8WeavTVpOLwMvkboo13ZXwE+UxHGOPtfmSm+rfTfTXSiTuaB3th/+7suXDG0MnIsDfcQciksJDjUyGASm4SMk5k6CicZCpf604SM
+ actionbar : {}
+ code_elements :
+  internal_properties : CAAAAAgAAACrTLhRaejPuSPmbNSZtHFEienuMEfKJ8s8tttTSU+vOgOBdjqslDIhnkDjIp4dL/rsYMxAEb2+WH9comLhmzlAxb09++Y+Fx7pQQ==
+  type_code : 1
+  p_codes :
+   -
+     internal_properties : CAAAAAgAAABDNRqB7cu3hk8cDwpkr0DJI738DIjN03sf0vOAWIWv/wFsLtjD4NF9OHPzxMhmLT732mog4LQqzFa14NXoaBZs5Rms0+3EwKC8ppq0nmpQosPxsIsiA05PmMDFnJ95z3xNHZ9pChzGKiyOv+Q=
+     code : |1+
+      procedure FEN_Quantité()
+      
+      //Pour gestion des timers incrémentant et décrémentant la quantité
+      nTimerIncrémente, nTimerDécrémente sont des entiers
+      
+   -
+     code : |1-
+      
+      FichierVersEcran()
+     type : 34
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1-
+      
+     type : 2
+   -
+     type : 11
+   -
+     type : 12
+   -
+     type : 17
+   -
+     type : 13
+   -
+     type : 66048
+  procedures :
+   -
+     name : Incrémente
+     procedure_id : 1626482889278357969
+     type_code : 14
+     code : |1-
+      // Syntaxe :
+      //Incrémente ()
+      //
+      // Paramètres :
+      //	Aucun
+      // Valeur de retour :
+      // 	Aucune
+      
+      Procédure Incrémente()
+      
+      SAI_Quantité = SAI_Quantité + 1
+     type : 458752
+   -
+     name : Décrémente
+     procedure_id : 1626482889278423505
+     type_code : 14
+     code : |1+
+      // Syntaxe :
+      //Décrémente ()
+      //
+      // Paramètres :
+      //	Aucun
+      // Valeur de retour :
+      // 	Aucune
+      
+      Procédure Décrémente()
+      
+      SI SAI_Quantité > 0 ALORS
+      	SAI_Quantité = SAI_Quantité - 1
+      fin
+      
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : FenQuantité
+resources :
+ string_res :
+  identifier : 0x1fc4ff8e065571a4
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
